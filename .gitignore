@@ -125,3 +125,15 @@ credentials.*
 
 # Add Supabase secrets file if created locally
 supabase_secrets.json
+
+# Sensitive files
+.env.*local*
+
+# Cursor specific files
+.cursor/
+
+# Memory Bank (should not be part of main repo)
+memory-bank/
+
+# Other Docs (if not intended for repo)
+docs/corso-trader-ai-fine-tuning-gospel_v1.md

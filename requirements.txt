@@ -1,0 +1,7 @@
+supabase>=1.0.0,<2.0.0
+python-dotenv>=1.0.0,<2.0.0
+
+# Add other dependencies as needed, e.g.:
+# pandas
+# pandas-ta
+# ccxt 
